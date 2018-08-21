@@ -1,0 +1,13 @@
+// Tacit - CSS Framework for Dummies, Without Classes
+@import url('https://cdn.rawgit.com/yegor256/tacit/gh-pages/tacit-css-1.3.2.min.css');
+
+@import "~highlight.js/styles/atom-one-dark";
+
+button[data-sharer] {
+    color: #fff;
+}
+
+.test-css {
+    padding: 5px;
+    border: 2px solid blue;
+}
